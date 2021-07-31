@@ -1,0 +1,15 @@
+.footer__link-item.body--small{
+    white-space: unset !important;
+}
+.logo-img{
+    /* width: 200px;
+    height: 123px;
+    max-width: 245px;
+    position: relative;
+    top: -35px; */
+    width: 270px;
+    height: 167px;
+    max-width: 245px;
+    position: relative;
+    top: -61px;
+}

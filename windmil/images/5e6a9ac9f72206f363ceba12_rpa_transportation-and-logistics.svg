@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="292px" height="385px" viewBox="0 0 292 385" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>rpa_transportation-and-logistics</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M189,42 L147,84 L178.5,84 L178.5,157.5 C178.5,169.05 169.05,178.5 157.5,178.5 C145.95,178.5 136.5,169.05 136.5,157.5 L136.5,84 C136.5,60.795 117.705,42 94.5,42 C71.295,42 52.5,60.795 52.5,84 L52.5,157.5 L21,157.5 L63,199.5 L105,157.5 L73.5,157.5 L73.5,84 C73.5,72.45 82.95,63 94.5,63 C106.05,63 115.5,72.45 115.5,84 L115.5,157.5 C115.5,180.705 134.295,199.5 157.5,199.5 C180.705,199.5 199.5,180.705 199.5,157.5 L199.5,84 L231,84 L189,42 Z" id="path-1"></path>
+    </defs>
+    <g id="rpa_transportation-and-logistics" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="easyClaim" transform="translate(0.000000, 93.000000)" fill="#47EDDA">
+            <polyline id="bg" points="0 0 0 182.5 292 292 292 0 0 0"></polyline>
+        </g>
+        <g id="ic/swap_calls" transform="translate(146.000000, 126.000000) rotate(90.000000) translate(-146.000000, -126.000000) translate(20.000000, 0.000000)">
+            <g>
+                <g id="🎨-Color">
+                    <rect id="Shape" x="0" y="0" width="252" height="252"></rect>
+                </g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Path" fill="#091C48" fill-rule="nonzero" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
